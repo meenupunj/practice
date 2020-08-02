@@ -1,0 +1,8 @@
+geckodriver*.txt
+.idea
+.vscode
+.ipynb_checkpoints
+venv
+selenium-screenshot*
+report
+log
