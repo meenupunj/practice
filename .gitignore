@@ -1,4 +1,4 @@
-geckodriver*.txt
+geckodriver*.log
 .idea
 .vscode
 .ipynb_checkpoints
